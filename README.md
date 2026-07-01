@@ -63,3 +63,5 @@ errors, unknown-unit errors, and the CLI entry point end-to-end.
 - Add data/currency units (needs a live exchange rate source)
 - Add a `--precision N` flag to control decimal places
 - Batch conversion from a CSV file
+
+THX-JUN2626-298
